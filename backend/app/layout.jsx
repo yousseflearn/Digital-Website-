@@ -1,3 +1,4 @@
+import Aside from '@/components/Aside';
 import Header from '@/components/Header';
 import ParentComponent from '@/components/ParentComponent';
 import '@/styles/globals.css';
@@ -11,7 +12,6 @@ export default function RootLayout({ children }) {
   return (
     <>
       <html lang="en">
-        <h1>Site is live</h1>
         <body>
           <ParentComponent />
           {children}
