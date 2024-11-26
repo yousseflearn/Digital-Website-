@@ -306,7 +306,7 @@ button {
   z-index: -1;
 }
 
-.headerham {
+.headerHam {
   width: 40px;
   height: 40px;
   background-color: #eee8fa;
@@ -316,12 +316,12 @@ button {
   cursor: pointer;
 }
 
-.rightnav svg {
+.rightNav svg {
   font-size: 22px;
   cursor: pointer;
 }
 
-.profilenav img {
+.profileNav img {
   width: 120px;
   cursor: pointer;
 }
@@ -398,7 +398,7 @@ button {
   padding: 1rem;
 }
 
-.logoutbtn {
+.logoutBtn {
   position: absolute;
   bottom: 12%;
   left: 50%;
@@ -414,7 +414,7 @@ button {
   color: #5f22db;
   transition: 0.3s;
 }
-.logoutbtn:hover {
+.logoutBtn:hover {
   background-color: #9664f1;
   color: #fff;
 }
@@ -434,21 +434,21 @@ button {
 }
 
 /* title */
-.titledashboard {
+.titleDashBoard {
   position: relative;
 }
 
-.titledashboard h2 {
+.titleDashBoard h2 {
   color: #7e37d8;
   font-size: 2rem;
   font-weight: 800;
 }
 
-.titledashboard h2 span {
+.titleDashBoard h2 span {
   color: #000;
 }
 
-.titledashboard h3 {
+.titleDashBoard h3 {
   display: block;
   text-transform: uppercase;
   color: #7e37d8;
@@ -801,7 +801,7 @@ button {
 /* *******************************  ADD NEW BLOGS Page */
 /* ********************************************** */
 
-.addblogspage {
+.addBlogsPage {
   position: relative;
   /* max-width: 1650px;
     margin: auto; */
@@ -811,7 +811,7 @@ button {
   padding: 2rem;
 }
 
-.blogsadd {
+.blogsAdd {
   width: 100%;
   padding: 3rem 0;
 }
@@ -1745,7 +1745,7 @@ button {
     padding: 1rem;
   }
 
-  .titledashboard h2 {
+  .titleDashBoard h2 {
     font-size: 1.2rem;
   }
 
